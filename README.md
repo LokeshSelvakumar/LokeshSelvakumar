@@ -1,6 +1,9 @@
 ### Hi there 👋
 - A passionate full stack developer 
-- Fun Fact : Loke is an avid chess player who enjoys tactics.
+- graduate student at Trinity College Dublin
+- always learning as little as I can to make me better as much as I can.
+
+### Fun Fact : Loke is an avid chess player who enjoys tactics.
 <!--
 **LokeshSelvakumar/LokeshSelvakumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
