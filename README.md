@@ -1,5 +1,5 @@
 ### About Me
-- A passionate full stack developer 
+- A passionate full stack Java developer 
 - graduate student at Trinity College Dublin
 - always learning as little as I can to make me better as much as I can.
 
