@@ -1,9 +1,8 @@
 ### About Me
 - A passionate full stack Java developer 
-- graduate student at Trinity College Dublin
-- always learning as little as I can to make me better as much as I can.
+- I live somewhere between just doing stuff and not doing stuff.
 
-### Fun Fact : Loke is an avid chess player who enjoys tactics.
+### Fun Fact : I'm an avid chess player who enjoys tactics.
 <!--
 **LokeshSelvakumar/LokeshSelvakumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
